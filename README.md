@@ -14,4 +14,4 @@ Create a Calculator, designed as a part of internship under TASK 4 of Web Develo
 * JAVASCRIPT
 
 # Author
-NUKUNDA MONDAL
+MUKUNDA MONDAL
